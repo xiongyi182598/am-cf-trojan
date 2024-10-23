@@ -16,6 +16,10 @@ let userID = 'auto';
 let proxyIPs = [
 	'cdn.xn--b6gac.eu.org',
 	'cdn-all.xn--b6gac.eu.org',
+	'edgetunnel.anycast.eu.org',
+	'cdn-all.xijingping.link',
+	'edgetunnel.anycast.eu.org',
+	'146.70.175.100',
 	'workers.cloudflare.cyou'
 ];
 // Randomly select a proxy IP from the list
